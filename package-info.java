@@ -1,1 +1,1 @@
-package POM_class;
+package JavaScriptExecutor;
